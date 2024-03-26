@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bunnytech-x
-- 👀 I'm interested in helping DevOps professionals with Kubernetes
+- 👋 Hi, We're @bunnytech-x
+- 👀 We are helping DevOps professionals with Kubernetes.
 - 💞️ I’m looking to collaborate on building 
 - 📫 How to reach me at hi@bunnytech.io
 - ⚡ Check out my website at [www.bunnytech.io/](https://www.bunnytech.io/)
